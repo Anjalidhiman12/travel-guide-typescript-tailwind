@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-background {
+    background-image: url('/public/images/pexels-todd-trapani-1420440.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
